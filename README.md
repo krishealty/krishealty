@@ -1,5 +1,2 @@
-- Average programmer
-<!---
-krishlalwani0/krishlalwani0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You ca click the Preview link to take a look at your changes.
---->
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets5.lottiefiles.com/packages/lf20_41nvak.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
