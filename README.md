@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Krish Lalwani</h1>
-<h3 align="center">just a developer...</h3>
+<img src="" style="max-width: 100%;" alt="" />
+<br/>
 
+<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my GitHub profile" />
+<br/>
 - 🔭 I’m currently working on [LiZa AI bots](https://krishlalwani0.github.io/liza/)
 
 - 🌱 currently trying hands on **Kotlin**
