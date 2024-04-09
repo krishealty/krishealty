@@ -1,4 +1,6 @@
-<img src="" style="max-width: 100%;" alt="" />
+<div align="center">
+<img src="text.gif" style="max-width: 100%;" alt="" />
+<div/>
 <br/>
 
 <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my GitHub profile" />
