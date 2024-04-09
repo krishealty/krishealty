@@ -34,6 +34,11 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 
+<strong>🏆 Dooboo lab's github stats</strong>
+
+<a href="https://stats.hyochan.dev/en/stats/krishlalwani0"><img src="https://stats.hyochan.dev/api/github-stats?login=krishlalwani0" width="600" /></a>
+
+
 <h4 align="center">
   <a href="https://github.com/krishlalwani0?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
