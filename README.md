@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my project [https://github.com/krishlalwani0](https://github.com/krishlalwani0)
 
-- 📝 sometimes i write about deep web on [https://tinyurl.com/theriverr](https://tinyurl.com/theriverr)
+- 📝 sometimes i write about deep web on [https://theriver.us.to/](https://theriver.us.to/)
 
 - 📫 hmu: **krishlalwani846@gmail.com**
 
