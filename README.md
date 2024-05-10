@@ -79,6 +79,6 @@ Yes i love doing text art too.
 
   <div align=center>
     <img src="manga.gif">
-    Did i say i love mangas?
+    Well i love working on making Manga and Anime web designs, graphics and cool stuff from html, css and java in my free time 'cause i love it hehe. Wait, Did i say i love mangas? OH YES I DID!
   </div>
 </details>
