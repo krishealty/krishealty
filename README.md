@@ -111,13 +111,18 @@ Everything is painful, but do you know what's the most painful thing in the worl
 <details>
 <summary>Mind Hypnosis</summary>
 <br/>
-If you've been on this for a while, i bet that you would've experiencing problems while sleeping (average programmer things), while if yes then don't worry pal, i got you. Scroll this tab and watch every GIF for 10 seconds, it'll help you sleep (simple mind altering technique :-P, don't worry it doesn't have any flashes)
+<img src="src/mindwave.gif">
+If you've been on this for a while, i bet that you would've experiencing problems while sleeping (average programmer things), while if yes then don't worry pal, i got you. Scroll this tab and watch every GIF for 10 seconds, it'll help you sleep (simple mind altering techniques)
 <img src="src/sleepy1.gif">
 <img src="src/sleepy2.gif">
 <img src="src/sleepy3.gif">
 <img src="src/sleepy4.gif">
 <img src="src/sleepy5.gif">
 <img src="src/sleepy6.gif">
+<img src="src/sleepy7.gif">
+<img src="src/sleepy8.gif">
+<img src="src/sleepy9.gif">
+<img src="src/sleepy10.gif">
 </details>
 
   </div>
