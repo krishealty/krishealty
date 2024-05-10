@@ -66,7 +66,7 @@ Yes i love doing text art too.
 
 
      |\_/|                  
-     | @ @   Woof, I am the GitDog!
+     | @ @   Woof, GitDog!
      |   <>              _  
      |  _/\------____ ((| |))
      |               `--' |   
