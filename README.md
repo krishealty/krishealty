@@ -45,6 +45,8 @@
 <details>
 <summary>Stats</summary>
 <br/>
+<a href="https://status.badgen.net/"><img src="https://badgen.net/uptime-robot/week/m780862024-50db2c44c703e5c68d6b1ebb?label=past%20week%20uptime" /></a>
+<br/>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=krishlalwani0"/>
 <p align="center">
     <a href="https://github.com/krishealty"><img align="center" src="https://github-readme-stats.vercel.app/api?username=krishealty&show_icons=true&locale=en&theme=dark" alt="" width="600"/></a>
