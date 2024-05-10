@@ -83,5 +83,12 @@ Yes i love doing text art too.
   <div align=center>
     <img src="manga.gif">
     Well i love working on making Manga and Anime web designs, graphics and cool stuff from html, css and java in my free time 'cause i love it hehe. Wait, Did i say i love mangas? OH YES I DID!
+
+<br/>
+   
+<img src="dino.gif">
+
+Doo you wanna play the [Dino game](https://wayou.github.io/t-rex-runner/)?
+
   </div>
 </details>
