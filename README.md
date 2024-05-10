@@ -12,6 +12,9 @@
 <br/>
 
 <img src="krishlalwani.gif" style="max-width: 100%;" alt=""/>
+
+<!-- Spotify Integration -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nudfj5tl65zml55o2bcaexg3cq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31nudfj5tl65zml55o2bcaexg3cq&redirect=true)
 <br/>
 
 <!-- connect folder -->
@@ -82,5 +85,3 @@ Yes i love doing text art too.
     Well i love working on making Manga and Anime web designs, graphics and cool stuff from html, css and java in my free time 'cause i love it hehe. Wait, Did i say i love mangas? OH YES I DID!
   </div>
 </details>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nudfj5tl65zml55o2bcaexg3cq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31nudfj5tl65zml55o2bcaexg3cq&redirect=true)
