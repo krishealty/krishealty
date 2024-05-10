@@ -122,6 +122,29 @@ Do you love Black Holes??? Oh me too, you can visit my [Pinterest](https://www.p
 
 <br/>
 
+<p align="center">
+<img src="src/c1.gif">
+<img src="src/c2.gif">
+<img src="src/c3.gif">
+<img src="src/c4.gif">
+<img src="src/c5.gif">
+</p>
+<p align="center">
+<img src="src/c11.gif">	
+<img src="src/textgif.gif">
+<img src="src/c12.gif">
+</p>
+<p align="center">
+<img src="src/c6.gif">
+<img src="src/c7.gif">
+<img src="src/c8.gif">
+<img src="src/c9.gif">
+<img src="src/c10.gif">
+</p>
+
+
+<br/>
+
 <details>
 <summary>Mind Hypnosis</summary>
 <img src="src/mindwave.gif">
