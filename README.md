@@ -116,7 +116,7 @@ Everything is painful, but do you know what's the most painful thing in the worl
 <img src="src/gamefps.gif">
 <br/>
 
-<img src="src/blac-khole.gif">
+<img src="src/black-hole.gif">
 
 Do you love Black Holes??? Oh me too, you can visit my [Pinterest](https://www.pinterest.de/krishealty/extraterrestrial-realm) to check out my enthusiasm towards space.
 
