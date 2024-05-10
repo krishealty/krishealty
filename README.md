@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="assets/style.css">
 <div align="center">
 <img src="text (1).gif" style="max-width: 100%;" alt="" />
 <div/>
