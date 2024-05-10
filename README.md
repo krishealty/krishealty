@@ -52,3 +52,9 @@
 	</p>
 <a href="https://stats.hyochan.dev/en/stats/krishlalwani0"><img src="https://stats.hyochan.dev/api/github-stats?login=krishlalwani0" width="600" /></a>
 </details>
+<details>
+  <summary>About</summary>
+  <p>Waddup geeks, I am Krish Lalwani, 18 from India and my life revolves around a small circle of anime, codes, math (i love it sm) and a lot of games. I mainly focus in Machine learning and Web development while i am still learning Game development as of 2024, since you opened up this About section, below are the fun things that you can try :-P</p>
+
+  <img src="bye.gif">
+</details>
