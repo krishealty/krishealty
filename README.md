@@ -58,5 +58,24 @@
   <br/>
   Waddup geeks, I am Krish Lalwani, 18 from India and my life revolves around a small circle of anime, codes, math (i love it sm) and a lot of games. I mainly focus in Machine learning and Web development while i am still learning Game development as of 2024, since you opened up this About section, below are the fun things that you can try :-P
 
+Yes i love doing text art too.
+
+<br/>
+
+```
+
+
+     |\_/|                  
+     | @ @   Woof, I am the GitDog!
+     |   <>              _  
+     |  _/\------____ ((| |))
+     |               `--' |   
+ ____|_       ___|   |___.' 
+/_/_____/____/_______|
+
+
+
+```
+
   <img src="bye.gif">
 </details>
