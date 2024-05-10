@@ -1,9 +1,9 @@
 <div align="center">
-<img src="krishlalwani.gif" style="max-width: 100%;" alt="" />
+<img src="scene.gif" style="max-width: 100%;" alt="" />
 <div/>
 <br/>
 
-<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my GitHub profile" />
+<img src="krishlalwani.gif" style="max-width: 100%;" alt=""/>
 <br/>
 - 🔭 I’m currently working on [LiZa AI bots](https://krishlalwani0.github.io/liza/)
 
