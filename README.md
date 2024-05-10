@@ -1,8 +1,15 @@
 
 <!--
-• Gifs from pinterest by @heyoko, @ert
-• Text gif generated from textgnt.com
-• Data visualisation patterns by @hayochan, @badgenet
+CREDITS:
+
+
+@heyoko, @ert, @tenor, @imgur, @pinterest, @szziy, @cheekyrollie,@bigbaddie via Pinterest, Imgur, Giphy for GIFS.
+
+textgnt.com, textgif.com for Animated Text GIFS.
+
+@hayochan, @badgenet, @shieldio for Data Visualisation and Badges.
+
+
 
 -->
 
@@ -107,6 +114,11 @@ Hit me up on [Instagram](https://instagram.com/krishealty) if you wanna watch so
 
 Everything is painful, but do you know what's the most painful thing in the world???
 <img src="src/gamefps.gif">
+<br/>
+
+<img src="src/blackhole.gif">
+Do you love Black Holes??? Oh me too, you can visit my [Pinterest](https://www.pinterest.de/krishealty/extraterrestrial-realm/) to check out my enthusiasm towards space.
+<br/>
 
 <details>
 <summary>Mind Hypnosis</summary>
