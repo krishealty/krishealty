@@ -124,9 +124,12 @@ Do you love Black Holes??? Oh me too, you can visit my [Pinterest](https://www.p
 
 <details>
 <summary>Mind Hypnosis</summary>
-<br/>
 <img src="src/mindwave.gif">
+	
+<br/><br/>
+
 If you've been on this for a while, i bet that you would've experiencing problems while sleeping (average programmer things), while if yes then don't worry pal, i got you. Scroll this tab and watch every GIF for 10 seconds, it'll help you sleep (simple mind altering techniques)
+<br/><br/>
 <img src="src/sleepy1.gif">
 <img src="src/sleepy2.gif">
 <img src="src/sleepy3.gif">
