@@ -1,5 +1,5 @@
 <div align="center">
-<img src="text (1).gif" style="max-width: 100%;" alt="" />
+<img src="krishlalwani.gif" style="max-width: 100%;" alt="" />
 <div/>
 <br/>
 
