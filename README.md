@@ -15,7 +15,7 @@ textgnt.com, textgif.com for Animated Text GIFS.
 
 <!-- header content -->
 <div align="center">
-<img src="scene.gif" style="max-width: 100%;" alt="" />
+<img src="src/scene.gif" style="max-width: 100%;" alt="" />
 </div>
 <br/>
 
@@ -91,12 +91,12 @@ Yes i love doing text art too.
 <br/><br/>
 
 <div align=center>
-<img src="manga.gif">
+<img src="src/manga.gif">
 Well i love working on making Manga and Anime web designs, graphics and cool stuff from html, css and java in my free time 'cause i love it hehe. Wait, Did i say i love mangas? OH YES I DID!
 
 <br/><br/>
   
-<img src="dino.gif">
+<img src="src/dino.gif">
 
 Do you wanna play the [Dino game](https://wayou.github.io/t-rex-runner/)?
 
@@ -108,7 +108,7 @@ Do you wanna play the [Dino game](https://wayou.github.io/t-rex-runner/)?
 no dawg I can't code without music—
 
 <br/>
-<img src="anime.gif">
+<img src="src/anime.gif">
 
 Hit me up on [Instagram](https://instagram.com/krishealty) if you wanna watch some good anime together.
 
