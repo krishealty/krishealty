@@ -44,6 +44,11 @@
 <summary>Stats</summary>
 <br/>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=krishlalwani0"/>
-
+<p align="center">
+    <a href="https://github.com/krishealty"><img align="center" src="https://github-readme-stats.vercel.app/api?username=krishealty&show_icons=true&locale=en&theme=dark" alt="" width="600"/></a>
+	</p>
+	<p  align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishealty&show_icons=true&locale=en&layout=compact&theme=dark" alt="" width="600" height="170"/>
+	</p>
 <a href="https://stats.hyochan.dev/en/stats/krishlalwani0"><img src="https://stats.hyochan.dev/api/github-stats?login=krishlalwani0" width="600" /></a>
 </details>
