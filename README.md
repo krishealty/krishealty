@@ -94,6 +94,7 @@ Do you wanna play the [Dino game](https://wayou.github.io/t-rex-runner/)?
 
 <!-- Spotify Integration -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nudfj5tl65zml55o2bcaexg3cq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31nudfj5tl65zml55o2bcaexg3cq&redirect=true)
+
 no dawg I can't code without music—
 
 <br/>
