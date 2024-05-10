@@ -1,20 +1,12 @@
 <div align="center">
 <img src="scene.gif" style="max-width: 100%;" alt="" />
-<div/>
+</div>
 <br/>
 
 <img src="krishlalwani.gif" style="max-width: 100%;" alt=""/>
 <br/>
-- 🔭 I’m currently working on [LiZa AI bots](https://krishlalwani0.github.io/liza/)
 
-- 🌱 currently trying hands on **Kotlin**
-
-- 👨‍💻 All of my project [https://github.com/krishlalwani0](https://github.com/krishlalwani0)
-
-- 📝 sometimes i write about deep web on [https://theriver.us.to/](https://theriver.us.to/)
-
-- 📫 hmu: **krishlalwani846@gmail.com**
-
+<div align="left">
 <details>
   <summary>Connect</summary>
   <p align="left">
@@ -27,6 +19,7 @@
   <a href="https://www.codechef.com/users/krishealty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="krishealty" height="30" width="40" /></a>
   </p>
 </details>
+</div>
 
 <div align="left">
 <details>
