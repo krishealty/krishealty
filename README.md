@@ -61,7 +61,7 @@ textgnt.com, textgif.com for Animated Text GIFS.
 	<p  align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishealty&show_icons=true&locale=en&layout=compact&theme=dark" alt="" width="600" height="170"/>
 	</p>
-<a href="https://stats.hyochan.dev/en/stats/krishlalwani0"><img src="https://stats.hyochan.dev/api/github-stats?login=krishlalwani0" width="600" /></a>
+<a href="https://stats.hyochan.dev/en/stats/krishealty"><img src="https://stats.hyochan.dev/api/github-stats?login=krishealty" width="600" /></a>
 </details>
 <details>
   <summary>About</summary>
