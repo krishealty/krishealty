@@ -31,4 +31,8 @@
 </div>
 <br/>
 
+<details>
+<summary>Stats</summary>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishlalwani0&show_icons=true&theme=radical)
 <a href="https://stats.hyochan.dev/en/stats/krishlalwani0"><img src="https://stats.hyochan.dev/api/github-stats?login=krishlalwani0" width="600" /></a>
+</details>
