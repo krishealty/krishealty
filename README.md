@@ -77,5 +77,8 @@ Yes i love doing text art too.
 
 ```
 
-  <img src="bye.gif">
+  <div align=center>
+    <img src="manga.gif">
+    Did i say i love mangas?
+  </div>
 </details>
