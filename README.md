@@ -105,5 +105,20 @@ no dawg I can't code without music—
 
 Hit me up on [Instagram](https://instagram.com/krishealty) if you wanna watch some good anime together.
 
+Everything is painful, but do you know what's the most painful thing in the world???
+<img src="src/gamefps.gif">
+
+<details>
+<summary>Mind Hypnosis</summary>
+<br/>
+If you've been on this for a while, i bet that you would've experiencing problems while sleeping (average programmer things), while if yes then don't worry pal, i got you. Scroll this tab and watch every GIF for 10 seconds, it'll help you sleep (simple mind altering technique :-P, don't worry it doesn't have any flashes)
+<img src="src/sleepy1.gif">
+<img src="src/sleepy2.gif">
+<img src="src/sleepy3.gif">
+<img src="src/sleepy4.gif">
+<img src="src/sleepy5.gif">
+<img src="src/sleepy6.gif">
+</details>
+
   </div>
 </details>
