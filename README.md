@@ -2,7 +2,7 @@
 <!--
 • Gifs from pinterest by @heyoko, @ert
 • Text gif generated from textgnt.com
-• Data visualisation patterns by @hayochan, @badgenet
+• Data visualisation patterns by @hayochan, @badgenet.
 
 -->
 
