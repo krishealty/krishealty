@@ -19,7 +19,7 @@ textgnt.com, textgif.com for Animated Text GIFS.
 </div>
 <br/>
 
-<img src="krishlalwani.gif" style="max-width: 100%;" alt=""/>
+<img src="src/krishlalwani.gif" style="max-width: 100%;" alt=""/>
 <br/>
 
 <!-- connect folder -->
