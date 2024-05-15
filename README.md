@@ -127,12 +127,18 @@ Do you love Black Holes??? Oh me too, you can visit my [Pinterest](https://www.p
 <img width="10%" src="src/c2.gif">
 <img width="10%" src="src/c3.gif">
 <img width="10%" src="src/c4.gif">
+<img width="10%" src="src/c15.gif">
+<img width="10%" src="src/c16.gif">
+<img width="10%" src="src/c17.gif">
+<img width="10%" src="src/c18.gif">
 <img width="10%" src="src/c5.gif">
 </p>
 <p align="center">
-<img width="10%" src="src/c11.gif">	
+<img width="10%" src="src/c11.gif">
+<img width="10%" src="src/c12.gif">	
 <img width="50%" src="src/textgif.gif">
-<img width="10%" src="src/c12.gif">
+<img width="10%" src="src/c13.gif">
+<img width="10%" src="src/c14.gif">
 </p>
 <p align="center">
 <img width="10%" src="src/c6.gif">
@@ -140,6 +146,10 @@ Do you love Black Holes??? Oh me too, you can visit my [Pinterest](https://www.p
 <img width="10%" src="src/c8.gif">
 <img width="10%" src="src/c9.gif">
 <img width="10%" src="src/c10.gif">
+<img width="10%" src="src/c19.gif">
+<img width="10%" src="src/c20.gif">
+<img width="10%" src="src/c21.gif">
+<img width="10%" src="src/c22.gif">
 </p>
 
 
