@@ -3,7 +3,7 @@
 CREDITS:
 
 
-@heyoko, @ert, @tenor, @imgur, @pinterest, @szziy, @cheekyrollie,@bigbaddie via Pinterest, Imgur, Giphy for GIFS.
+@heyoko, @ert, @tenor, @imgur, @pinterest, @szziy, @cheekyrollie, @bigbaddie via Pinterest, Imgur, Giphy for GIFS.
 
 textgnt.com, textgif.com for Animated Text GIFS.
 
