@@ -29,7 +29,7 @@ textgnt.com, textgif.com for Animated Text GIFS.
   <br/>
   <p align="left">
   <a href="https://codepen.io/krishlalwani0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="krishlalwani0" height="30" width="40" /></a>
-  <a href="https://dev.to/krishealty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="krishealty" height="30" width="40" /></a>
+
   <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20447149/krish-lalwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20447149/krish-lalwani" height="30" width="40" /></a>
   <a href="https://codesandbox.com/krishealty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="krishealty" height="30" width="40" /></a>
   <a href="https://dev.to/krishealty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="krishealty" height="30" width="40" /></a>
