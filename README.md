@@ -106,7 +106,7 @@ Well i love working on making Manga and Anime web designs, graphics and cool stu
   
 <img src="src/dino.gif">
 
-Do you wanna play the [Dino game](https://wayou.github.io/t-rex-runner/)?
+Do you wanna play the [Dino game](https://krishealty.github.io/T-Rex-runner/)?
 
 <br/>
 
