@@ -129,7 +129,10 @@ Everything is painful, but do you know what's the most painful thing in the worl
 Do you love Black Holes??? Oh me too, you can visit my [Pinterest](https://www.pinterest.de/krishealty/extraterrestrial-realm) to check out my enthusiasm towards space.
 
 <br/>
-
+<p align="center">
+<img width="10%" src="src/m1.gif">
+<img width="10%" src="src/m2.gif">
+</p>
 <p align="center">
 <img width="10%" src="src/c1.gif">
 <img width="10%" src="src/c2.gif">
@@ -181,6 +184,10 @@ Do you love Black Holes??? Oh me too, you can visit my [Pinterest](https://www.p
 <img width="10%" src="src/c38.gif">
 <img width="10%" src="src/c39.gif">
 <img width="10%" src="src/c40.gif">
+</p>
+<p align="center">
+<img width="10%" src="src/m3.gif">
+<img width="10%" src="src/m4.gif">
 </p>
 
 <br/>
