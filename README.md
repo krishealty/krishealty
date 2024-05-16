@@ -21,10 +21,15 @@ textgnt.com, textgif.com for Animated Text GIFS.
 
 <img src="src/krishlalwani.gif" style="max-width: 100%;" alt=""/>
 <br/>
-<p align="center">
-  <a href="https://gist.github.com/krishealty/readme.md">here
+
+<details>
+  <summary>Chat Box</summary>
+</br>
+<p align="left">You can discuss about anything in my
+  <a href="https://gist.github.com/krishealty/4fe7c331510b167f918ad600083e4827">Chat Box.
   </a>
 </p>
+</details>
 
 <!-- connect folder -->
 <div align="left">
