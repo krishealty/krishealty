@@ -130,8 +130,10 @@ Do you love Black Holes??? Oh me too, you can visit my [Pinterest](https://www.p
 
 <br/>
 <p align="center">
-<img width="10%" src="src/m1.gif">
-<img width="10%" src="src/m2.gif">
+<img width="100%" src="src/m1.gif">
+</p>
+<p align="center">
+<img width="100%" src="src/m2.gif">
 </p>
 <p align="center">
 <img width="10%" src="src/c1.gif">
@@ -186,8 +188,10 @@ Do you love Black Holes??? Oh me too, you can visit my [Pinterest](https://www.p
 <img width="10%" src="src/c40.gif">
 </p>
 <p align="center">
-<img width="10%" src="src/m3.gif">
-<img width="10%" src="src/m4.gif">
+<img width="100%" src="src/m3.gif">
+</p>
+<p align="center">
+<img width="100%" src="src/m4.gif">
 </p>
 
 <br/>
