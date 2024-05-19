@@ -56,21 +56,7 @@ textgnt.com, textgif.com for Animated Text GIFS.
 </details>
 </div>
 
-<!-- stats folder -->
-<details>
-<summary>Stats</summary>
-<br/>
-<a href="https://status.badgen.net/"><img src="https://badgen.net/uptime-robot/week/m780862024-50db2c44c703e5c68d6b1ebb?label=past%20week%20uptime" /></a>
-<br/>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=krishlalwani0"/>
-<p align="center">
-    <a href="https://github.com/krishealty"><img align="center" src="https://github-readme-stats.vercel.app/api?username=krishealty&show_icons=true&locale=en&theme=dark" alt="" width="600"/></a>
-	</p>
-	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishealty&show_icons=true&locale=en&layout=compact&theme=dark" alt="" width="600" height="170"/>
-	</p>
-<a href="https://stats.hyochan.dev/en/stats/krishealty"><img src="https://stats.hyochan.dev/api/github-stats?login=krishealty" width="600" /></a>
-</details>
+
 <details>
   <summary>About</summary>
   <br/>
@@ -218,10 +204,9 @@ If you've been on this for a while, i bet that you would've experiencing problem
   </div>
 </details>
 
-
-
+<!-- stats folder -->
 <details>
-<summary>more</summary>
+<summary>Stats</summary>
 <!-- <img align="left" width="100%" alt="🦑" src="/bigass.svg"> -->
 <table width="2000">
 <tr>
@@ -251,14 +236,30 @@ If you've been on this for a while, i bet that you would've experiencing problem
 <table width="2000">
 <tr>
 <td width="2000"><img src="https://github-trophies.vercel.app/?username=krishealty&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
+<td width="1000">
+<a href="https://stats.hyochan.dev/en/stats/krishealty"><img src="https://stats.hyochan.dev/api/github-stats?login=krishealty" width="600" /></a>
+</td>
 <!-- <td>![](https://github-trophies.vercel.app/?username=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)</td> -->
 </tr>
 </table>
 
-<!-- <table>
+<table>
+<tr>
+<td width="1000">
+<a href="https://status.badgen.net/"><img src="https://badgen.net/uptime-robot/week/m780862024-50db2c44c703e5c68d6b1ebb?label=past%20week%20uptime" /></a>
+<br/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=krishlalwani0"/>
+<p align="center">
+    <a href="https://github.com/krishealty"><img align="center" src="https://github-readme-stats.vercel.app/api?username=krishealty&show_icons=true&locale=en&theme=dark" alt="" width="600"/></a>
+	</p>
+</td>
+</tr>
+</table>
+
+<table>
 <tr>
 <td><img src="https://s01.flagcounter.com/count/IK7Q/bg_000000/txt_FFFFFF/border_FFFFFF/columns_9/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></td>
 </tr>
-</table> -->
+</table>
 
 </details>
