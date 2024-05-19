@@ -258,7 +258,10 @@ If you've been on this for a while, i bet that you would've experiencing problem
 
 <table>
 <tr>
-<td><img src="https://s01.flagcounter.com/count/IK7Q/bg_000000/txt_FFFFFF/border_FFFFFF/columns_9/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></td>
+<td><a href="https://info.flagcounter.com/C3bA"><img src="https://s11.flagcounter.com/count/C3bA/bg_0F0F0F/txt_FFFFFF/border_CC1D9D/columns_8/maxflags_50/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a></td>
+<td>
+<a href="https://info.flagcounter.com/vpP9"><img src="https://s01.flagcounter.com/map/vpP9/size_s/txt_000000/border_CC299B/pageviews_0/viewers_3/flags_0/" alt="Flag Counter" border="0"></a>
+</td>
 </tr>
 </table>
 
