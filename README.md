@@ -204,11 +204,13 @@ If you've been on this for a while, i bet that you would've experiencing problem
 <details>
 <summary>Stats</summary>
 </br>
+<!-- <img align="left" width="100%" alt="🦑" src="/bigass.svg"> -->
 <table width="2000">
 <tr>
 <td width="2000"><img align="center" width="100%" alt="🦑" src="/bigass.svg"></td>
 </tr>
 </table>
+<!-- <img align="right" width="45%" alt="🦑" src="/charts.svg">
 
 <img align="left" width="50%" alt="🦑" src="/anilist.svg">
 <img align="right" width="45%" alt="🦑" src="/pagespeed.svg">
