@@ -1,4 +1,3 @@
-
 <!--
 CREDITS:
 
@@ -8,9 +7,6 @@ CREDITS:
 textgnt.com, textgif.com for Animated Text GIFS.
 
 @hayochan, @badgenet, @shieldio for Data Visualisation and Badges.
-
-
-
 -->
 
 <!-- header content -->
@@ -207,13 +203,12 @@ If you've been on this for a while, i bet that you would've experiencing problem
 <!-- stats folder -->
 <details>
 <summary>Stats</summary>
-<!-- <img align="left" width="100%" alt="🦑" src="/bigass.svg"> -->
+</br>
 <table width="2000">
 <tr>
 <td width="2000"><img align="center" width="100%" alt="🦑" src="/bigass.svg"></td>
 </tr>
 </table>
-<!-- <img align="right" width="45%" alt="🦑" src="/charts.svg">
 
 <img align="left" width="50%" alt="🦑" src="/anilist.svg">
 <img align="right" width="45%" alt="🦑" src="/pagespeed.svg">
@@ -232,17 +227,14 @@ If you've been on this for a while, i bet that you would've experiencing problem
 </tr>
 </table>
 
-<!-- <img width="100%" alt="🦑" src="/IMG_4568.jpg"> -->
 <table width="2000">
 <tr>
 <td width="2000"><img src="https://github-trophies.vercel.app/?username=krishealty&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
 <td width="1000">
 <a href="https://stats.hyochan.dev/en/stats/krishealty"><img src="https://stats.hyochan.dev/api/github-stats?login=krishealty" width="600" /></a>
 </td>
-<!-- <td>![](https://github-trophies.vercel.app/?username=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)</td> -->
 </tr>
 </table>
-
 <table>
 <tr>
 <td width="1000">
