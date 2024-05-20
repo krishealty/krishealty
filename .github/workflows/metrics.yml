@@ -4,10 +4,7 @@ name: bigass metrics
 on:
   schedule:
     - cron: "0 12 * * *"
-  push:
-    branches:
-      - master
-      - main
+  
   workflow_dispatch:
 jobs:
   github-metrics-personal:
