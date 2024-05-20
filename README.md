@@ -267,6 +267,9 @@ If you've been on this for a while, i bet that you would've experiencing problem
     <a href="https://github.com/krishealty"><img align="center" src="https://github-readme-stats.vercel.app/api?username=krishealty&show_icons=true&locale=en&theme=dark" alt="" width="600"/></a>
 	</p>
 </td>
+<td>
+	<img src="https://raw.githubusercontent.com/krishealty/krishealty/output/github-contribution-grid-snake.svg" />
+</td>
 </tr>
 </table>
 
