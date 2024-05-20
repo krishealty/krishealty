@@ -15,9 +15,11 @@ textgnt.com, textgif.com for Animated Text GIFS.
 </div>
 <br/>
 
+<div align="center">
 <img src="src/krishlalwani.gif" style="max-width: 100%;" alt=""/>
-<br/>
+</div>
 
+<br/>
 <details>
   <summary>Chat Box</summary>
 </br>
