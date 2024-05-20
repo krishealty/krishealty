@@ -267,9 +267,6 @@ If you've been on this for a while, i bet that you would've experiencing problem
     <a href="https://github.com/krishealty"><img align="center" src="https://github-readme-stats.vercel.app/api?username=krishealty&show_icons=true&locale=en&theme=dark" alt="" width="600"/></a>
 	</p>
 </td>
-<td>
-	<img src="https://raw.githubusercontent.com/krishealty/krishealty/output/github-contribution-grid-snake.svg" />
-</td>
 </tr>
 </table>
 
@@ -279,6 +276,13 @@ If you've been on this for a while, i bet that you would've experiencing problem
 <td>
 <a href="https://info.flagcounter.com/vpP9"><img src="https://s01.flagcounter.com/map/vpP9/size_s/txt_000000/border_CC299B/pageviews_0/viewers_3/flags_0/" alt="Flag Counter" border="0"></a>
 </td>
+</tr>
+</table>
+<table>
+<tr>
+
+<img src="https://github.com/krishealty/krishealty/blob/output/github-contribution-grid-snake.gif">
+
 </tr>
 </table>
 
