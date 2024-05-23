@@ -280,12 +280,4 @@ If you've been on this for a while, i bet that you would've experiencing problem
 </td>
 </tr>
 </table>
-<table>
-<tr>
-
-<img src="https://github.com/krishealty/krishealty/blob/output/github-contribution-grid-snake.gif">
-
-</tr>
-</table>
-
 </details>
