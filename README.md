@@ -18,6 +18,9 @@ textgnt.com, textgif.com for Animated Text GIFS.
 <div align="center">
 <img src="src/krishlalwani.gif" style="max-width: 100%;" alt=""/>
 </div>
+<br/>
+
+Visit [simpler version](https://github.com/krishealty/krishealty/blob/main/SIMPLE.md) of Readme
 
 <br/>
 <details>
