@@ -18,9 +18,6 @@ textgnt.com, textgif.com for Animated Text GIFS.
 <div align="center">
 <img src="src/krishlalwani.gif" style="max-width: 100%;" alt=""/>
 </div>
-<br/>
-
-Visit [simpler version](https://github.com/krishealty/krishealty/blob/main/SIMPLE.md) of Readme
 
 <br/>
 <details>
@@ -33,6 +30,8 @@ Visit [simpler version](https://github.com/krishealty/krishealty/blob/main/SIMPL
   <a href="https://gist.github.com/krishealty/4fe7c331510b167f918ad600083e4827">Chat Box.
   </a>
 </p>
+Visit [simpler version](https://github.com/krishealty/krishealty/blob/main/SIMPLE.md) of Readme.
+
 </details>
 
 <!-- connect folder -->
