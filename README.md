@@ -282,4 +282,21 @@ If you've been on this for a while, i bet that you would've experiencing problem
 </td>
 </tr>
 </table>
+
+<img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" width="70px">  trophies, verify [here.](https://learn.microsoft.com/en-us/users/me/achievements?tab=tab-learning-paths#trophies-section)
+<table>
+<tr>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/add-logic-c-sharp-console-applications.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/csharp-data.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-5.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/debug-c-sharp-console-applications.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-2.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/extract-data-from-forms-use-form-recognizer.svg"></td>
+</tr>
+<tr>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/enhance-teaching-learning-bing-chat.svg"></td>
+</table>
+</tr>
 </details>
