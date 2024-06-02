@@ -30,6 +30,7 @@ textgnt.com, textgif.com for Animated Text GIFS.
   <a href="https://gist.github.com/krishealty/4fe7c331510b167f918ad600083e4827">Chat Box.
   </a>
 </p>
+
 Visit [simpler version](https://github.com/krishealty/krishealty/blob/main/SIMPLE.md) of Readme.
 
 </details>
