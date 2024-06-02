@@ -286,7 +286,6 @@ If you've been on this for a while, i bet that you would've experiencing problem
 <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" width="70px">  trophies, verify [here.](https://learn.microsoft.com/en-us/users/me/achievements?tab=tab-learning-paths#trophies-section)
 <table>
 <tr>
-<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"></td>
 <td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/add-logic-c-sharp-console-applications.svg"></td>
 <td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/csharp-data.svg"></td>
 <td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-5.svg"></td>
@@ -294,9 +293,37 @@ If you've been on this for a while, i bet that you would've experiencing problem
 <td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg"></td>
 <td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-2.svg"></td>
 <td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/extract-data-from-forms-use-form-recognizer.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/create-an-azure-cognitive-search-solution.svg"></td>
 </tr>
 <tr>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg"></td>
 <td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/enhance-teaching-learning-bing-chat.svg"></td>
-</table>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/examine-components-of-modern-data-warehouse.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/csharp-arrays-operations.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/implement-exception-handling-c-sharp.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/implement-visual-studio-code-debugging-tools.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/guided-project-debug-handle-exceptions-c-sharp-console-application.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/explore-relational-data-offerings-azure.svg"></td>
 </tr>
+<tr>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/form-recognizer-extract-data.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/create-composed-form-recognizer-model.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/build-form-recognizer-custom-skill-for-azure-cognitive-search.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/create-an-azure-cognitive-search-solution.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/csharp-write-first.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/guided-project-arrays-iteration-selection.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/challenge-project-arrays-iteration-selection.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/csharp-call-methods.svg"></td>
+</tr>
+<tr>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/csharp-evaluate-boolean-expressions.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/use-prebuilt-form-recognizer-models.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/guided-project-calculate-final-gpa.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/install-configure-visual-studio-code.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/csharp-if-elseif-else.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/csharp-arrays.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/build-form-recognizer-custom-skill-for-azure-cognitive-search.svg"></td>
+<td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/csharp-basic-formatting.svg"></td>
+</tr>
+</table>
 </details>
