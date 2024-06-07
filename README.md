@@ -327,4 +327,12 @@ If you've been on this for a while, i bet that you would've experiencing problem
 <td width="60"><img src="https://learn.microsoft.com/en-us/training/achievements/csharp-basic-formatting.svg"></td>
 </tr>
 </table>
+<table>
+<td>
+
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishealty&custom_title=Krish's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+</td>
+</table>
 </details>
