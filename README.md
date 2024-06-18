@@ -111,10 +111,8 @@ Do you wanna play the [Dino game](https://krishealty.github.io/T-Rex-runner/)?
 
 <br/>
 
-<!-- Spotify Integration -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nudfj5tl65zml55o2bcaexg3cq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31nudfj5tl65zml55o2bcaexg3cq&redirect=true)
-
-no dawg I can't code without music—
+<details>
+<summary>GIFs</summary>
 
 <br/>
 <img src="src/anime.gif">
@@ -220,6 +218,7 @@ If you've been on this for a while, i bet that you would've experiencing problem
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+</details>
 </details>
 
 <!-- stats folder -->
