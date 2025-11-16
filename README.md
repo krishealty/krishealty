@@ -26,7 +26,7 @@ textgnt.com, textgif.com for Animated Text GIFS.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=2FF731&random=false&width=425&lines=more+things+about+krish+%3A-P)](https://git.io/typing-svg)
 
 
-  Waddup geeks, I am Krish Lalwani, 18 from India and my life revolves around a small circle of anime, codes, math (i love it sm) and a lot of games. I mainly focus in Machine learning, Cybersecurity, Android studio and Web development while i am still learning Game development and some complex cryptography algorithms as of 2024, since you opened up this About section, below are the fun things that you can try :-P
+yo devs, Krish Lalwani here, 19 from India and my life revolves around a small circle of anime, programming and a lot of games. I mainly focus in Machine learning, Cybersecurity, Android studio and Web development while i am still learning Game development and some complex cryptography algorithms as of 2025, since you opened up this About section, below are the fun things that you can try :-P
 
 <br/>
 <details>
